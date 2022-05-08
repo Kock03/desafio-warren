@@ -4,10 +4,10 @@
 
 ### Tópicos
 
-:small_blue_diamond: [Descrição do Projeto] (#descrição_do_projeto)
-:small_blue_diamond: [Desafio 01] (#desafio_01)
-:small_blue_diamond: [Desafio 02] (#desafio_02)
-:small_blue_diamond: [Desafio 03] (#desafio_03)
+:small_blue_diamond: Descrição do Projeto
+<br>:small_blue_diamond: Desafio 01</br>
+<br>:small_blue_diamond: Desafio 02 </br>
+<br>:small_blue_diamond: Desafio 03</br>
 
 ## Descrição do Projeto
 
@@ -19,7 +19,7 @@
 ## Desafio 01
 
 <p align="justify">
-    Para rodar o desafio 01, basta abrir o arquivo "teste1.html" em seu navegador e abrir o console. Para abrir o console deve clicar com o botão direito do mouse -> inspecionar -> console. Feito isso o console irá retornar todos os numeros <br>n</br> que somando com o seu reverso da menor que 1 milhão
+    Para rodar o desafio 01, basta abrir o arquivo "teste1.html" em seu navegador e abrir o console. Para abrir o console deve clicar com o botão direito do mouse -> inspecionar -> console. Feito isso o console irá retornar todos os numeros <b>n</b> que somando com o seu reverso da menor que 1 milhão
 </p>
 
 ## Desafio 02
@@ -32,7 +32,7 @@
 
 <p align="justify">
     Para rodar o desafio 03, basta abrir o arquivo "teste3.html" em seu navegador e abrir o console. O código irá ler a capacidade proposta dentro do arquivo "teste3.js", ler as diversas variáveis "w", dada dentro do Array "items" e somar os valores correspondentes de "v" até dar o valor da capacidade total. 
-    <p>Exemplo: Caso a capacidade seja 100, e os valores de w sejam 10, 20, 30, 40, 50. e os valores de v sejam 12, 23, 34, 45, 56, respectivamente. O resultado final vai dar 113, pois os valores em "W" para fechar a capacidade serão utilizados o 50, 40 e 10.</p>
+    <p><b>Exemplo:</b> Caso a capacidade seja 100, e os valores de w sejam 10, 20, 30, 40, 50. e os valores de v sejam 12, 23, 34, 45, 56, respectivamente. O resultado final vai dar 113, pois os valores em "W" para fechar a capacidade serão utilizados o 50, 40 e 10.</p>
 </p>
 
 
