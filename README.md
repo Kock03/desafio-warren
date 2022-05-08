@@ -4,7 +4,7 @@
 
 ### Tópicos
 
-:small_blue_diamond: Descrição do Projeto
+<br>:small_blue_diamond: Descrição do Projeto</br>
 <br>:small_blue_diamond: Desafio 01</br>
 <br>:small_blue_diamond: Desafio 02 </br>
 <br>:small_blue_diamond: Desafio 03</br>
@@ -13,13 +13,13 @@
 
 <p align="justify">
     Desafio Warren Tech Academy, aonde nos foi proposto ser feito 03 desafios para fazermos algoritmos que resolvem algum tipo de problema.
-    Nos 3 desafios foi utilizado a linguagem de programção Javascript
+    Nos 3 desafios foi utilizado a linguagem de programção Javascript.
 </p>
 
 ## Desafio 01
 
 <p align="justify">
-    Para rodar o desafio 01, basta abrir o arquivo "teste1.html" em seu navegador e abrir o console. Para abrir o console deve clicar com o botão direito do mouse -> inspecionar -> console. Feito isso o console irá retornar todos os numeros <b>n</b> que somando com o seu reverso da menor que 1 milhão
+    Para rodar o desafio 01, basta abrir o arquivo "teste1.html" em seu navegador e abrir o console. Para abrir o console deve clicar com o botão direito do mouse -> inspecionar -> console. Feito isso o console irá retornar todos os numeros <b>n</b> que somando com o seu reverso da menor que 1 milhão.
 </p>
 
 ## Desafio 02
